@@ -5,7 +5,5 @@
 - 赛项：机器人任务挑战赛（工业具身智能机器人）
 - 全国总决赛：二等奖
 - 江苏赛区：一等奖
-- 团队成员：陈玮炜、童程欢、孙仲岳
-- 指导老师：徐承昊
 
 比赛视频：[Google Drive](https://drive.google.com/drive/folders/1b5MTM_TdCnjEiBGLmu0bw62gS_-7nObk?usp=sharing)
